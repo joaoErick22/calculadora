@@ -1,1 +1,1 @@
-projeto projeto simples de calculadora.
+projeto simples de calculadora.
